@@ -1,0 +1,45 @@
+td{font-family: Arial;
+	font-size: 12px;
+	color: gray;
+	line-height: 2em;
+}
+p{
+	font-family: Arial;
+	font-size: 12px;
+	color: gray;
+	line-height: 2em;
+}
+br{
+	font-family: Arial;
+	font-size: 12px;
+	color: gray;
+	line-height: 2em;
+}
+a{
+	color: #727272;
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
+}
+.title{
+	font-size: 14px;
+	color: white;
+}
+.title:hover{
+	color: #b9f605;
+	text-decoration:none;
+}
+#check{
+	color: #fbd306;
+	font-size: 14px;
+}
+#check:hover{
+	color: #b9f605;
+	text-decoration:none;
+}
+#no3{
+	font-size: 14px;
+	color: #b9f605;
+	font-weight: bold;
+}
