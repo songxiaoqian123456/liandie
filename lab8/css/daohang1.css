@@ -1,0 +1,46 @@
+*{
+
+	padding: 0px;
+
+	margin: 0px;
+
+}
+
+#titlediv{
+
+	background-image: url(../image/left_nav_title.gif);
+
+	width: 183px;
+
+	height: 35px;
+
+	color: white;
+
+	text-align: center;
+
+	padding-top: 12px;
+
+}
+
+li{
+
+	list-style-type:none;
+
+	list-style-image: square inside url(../image/left_cur.gif); 
+
+	background-image: url(../image/left_nav_txt.gif);
+	
+
+
+	width: 183px;
+
+}
+.a{color: red;font-family: 微软雅黑；}a{text-decoration: none;font-family: 微软雅黑；}
+.b{color: black;font-family: 微软雅黑；}
+t_nav_item.gif);
+	background-repeat: no-repeat;
+	background-position: -3em 90%;
+#footerdiv{
+	width: 183px;
+	height: 35px;
+}
