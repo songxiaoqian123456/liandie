@@ -53,9 +53,10 @@ a:hover {
 	float: left;
 }
 .nav ul li a{
-	font-stretch: bold;
+	
 	color: #fff;
 	text-decoration: none;
+    font-weight: bolder;
 
 
 }
