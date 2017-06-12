@@ -161,6 +161,8 @@ a:hover {
 .no3  li a{
 	margin-left: 5px;
 	text-decoration: none;
+	color: #522a06;
+	font-family: "宋体"；
 }
 .announce{
 	float:left;
@@ -184,6 +186,8 @@ a:hover {
 }
 .no4 li a{
 	text-decoration: none;
+	color: #522a06;
+	font-family: "宋体"；
 	
 }
 .no4 img{
@@ -221,6 +225,8 @@ a:hover {
 }
 .no5 ul li a{
 	text-decoration: none;
+	color: #522a06;
+	font-family: "宋体"；
 }
 .date{
 	float: right;
@@ -253,6 +259,8 @@ a:hover {
 }
 .no6 ul li a{
 	text-decoration: none;
+	color: #522a06;
+	font-family: "宋体"；
 }
 .date{
 	float: right;
@@ -344,6 +352,8 @@ a:hover {
 	float: left;
 	margin-top: 5px;
 	text-decoration: none;
+	color: #522a06;
+	font-family: "宋体"；
 }
 .pic11 {
 	margin-top:-90px;
