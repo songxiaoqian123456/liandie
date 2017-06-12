@@ -1,0 +1,358 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+}
+body{
+	text-align: left;
+	font-size:12px;
+	color: #522a06;
+	font-family: "宋体"；
+	background-image:url(../images/bodybg.gif);
+	width: 1005px;
+	
+
+	background-position: center;
+}
+a:hover {
+	text-decoration:underline;
+
+}
+/* 
+网页头部样式
+ */
+.header{
+	width:1005px; 
+	height:205px;
+	background-image: url(../images/bg.gif);
+
+}
+.banner{
+	width: 1000px;
+	height: 164px;
+}
+.banner img{
+	margin-top: 38px;
+    margin-left: 25px;
+    float: left;
+}
+.nav{
+	color:#fff;
+	text-align:center;
+	background-image: url(../images/nav.jpg);
+	float: left;
+	width: 1000px;
+	height: 40px;
+
+}
+.nav ul{
+
+	list-style: none;
+}
+.nav ul li{
+	float: left;
+}
+.nav ul li a{
+	font-stretch: bold;
+	color: #fff;
+	text-decoration: none;
+
+
+}
+.nav ul li a:hover{
+	color:#f9f603;
+	text-decoration:none;
+}
+.shouye{
+	color:;
+	text-decoration:none;
+}
+.no1{
+	margin-top: 10px;
+}
+.logo{
+	float: right;
+}
+.logo input{
+	float: right;
+	margin-top:-30px;
+	margin-right: 15px;
+	background-color: #000;
+	color: #fff;
+    width:44px;
+    height: 21px;
+    border-width: 1px;
+    border-color:#f8f5ee; 
+    border-style:solid;
+}
+.logo input[type="text"]{
+	float: right;
+	margin-right: 65px;
+	width: 140px;
+	height: 19px;
+	background-color: #f8f5ee;
+}
+
+/*
+内容部分样式
+ */
+.content{
+	width: 1000px;
+
+
+
+}
+.content-top{
+	overflow: hidden;
+	float:left;
+	margin-top:5px;
+}
+
+
+.pic{
+	width: 324px;
+	height:243px;
+	background-image: url(../images/news_bg.png);
+	float: left;
+}
+.pic img{
+	width: 300px;
+	height:200px;
+	margin:10px;
+}
+.no2{
+	height: 22px;
+	width: 300px;
+	margin-left: 80px;
+	margin-top:-5px;
+}
+
+.list{
+	height:243px;
+	width: 330px;
+	margin-left: 38px;
+	float: left;
+	
+}
+.date{
+	float: right;
+}
+.pic2{
+
+	width: 280px;
+	height:28px;
+	background-image: url(../images/change.png);
+    margin-left: -20px;
+
+}
+.pic2 img{
+	margin-top: -2px;
+	float:right;
+
+	margin-right: -60px;
+
+}
+.no3{margin-top: 10px;
+	line-height: 30px;
+}
+.no3 li{
+	list-style: none;
+}
+.no3  li a{
+	margin-left: 5px;
+	text-decoration: none;
+}
+.announce{
+	float:left;
+	margin-top: 10px;
+}
+.pic3 img{
+	margin-left:100px;
+}
+.no4{
+	margin-left: 30px;
+	line-height: 35px;
+	background-image: url(../images/board_bg.png);
+	float: left;
+	width: 278px;
+	height: 206px;
+
+
+}
+.no4 li{
+	list-style-type: none;
+}
+.no4 li a{
+	text-decoration: none;
+	
+}
+.no4 img{
+	margin: 3px;
+}
+
+
+/* left */
+.content-left{
+	width:715px;
+	margin-top:5px;
+	float: left;
+}
+.academic{
+	width: 340px;
+	float: left;
+	margin-top: 5px;
+
+}
+.pic4{
+	width: 340px;
+	height:54px;
+	background-image: url(../images/academic.png);
+	margin-top:5px;
+}
+.pic4 img{
+	float: right;
+	height: 40px;
+}
+.no5 ul li {
+	list-style: none;
+}
+.no5 ul li img{
+	margin: 5px;
+}
+.no5 ul li a{
+	text-decoration: none;
+}
+.date{
+	float: right;
+}
+
+
+
+.book-news{
+	width: 340px;
+	float: left;
+	margin-top: 5px;
+	margin-left: 6px;
+
+}
+.pic5{
+	width: 340px;
+	height:54px;
+	background-image: url(../images/book_news.png);
+	margin-top:5px;
+}
+.pic5 img{
+	float: right;
+	height: 40px;
+}
+.no6 ul li {
+	list-style: none;
+}
+.no6 ul li img{
+	margin: 5px;
+}
+.no6 ul li a{
+	text-decoration: none;
+}
+.date{
+	float: right;
+}
+
+.fengcai{
+	margin-top:5px;
+	width: 600px;
+}
+.pic6{
+	width: 450px;
+	height: 50px;
+	background-image: url(../images/fengcai_bg1.png);
+	float:left;
+} 
+.pic6 img{
+	float: right;
+	width:25px;
+}
+.pic7{
+	float: left;
+	width: 715px;
+	background-image: url(../images/fengcai_bg2.png);
+	background-repeat: no-repeat;
+	margin-top:1px;
+}
+.pic7{
+	margin-top:1px;
+	padding: 23px;
+
+}
+
+
+/* right */
+.content-right{
+	width:280px;
+	margin-top: -370px;
+	float:right;
+	background-image: url(../images/show_bg.png);
+	height:360px;
+	
+}
+.pic8{
+	margin-top: -30px;
+}
+.pic8 img{
+	margin-left: 100px;
+}
+.pic9{
+	text-align: center;
+
+}
+.pic9 img{
+	padding:20px;
+}
+.no7{
+	margin-top:-20px;
+	padding: 20px;
+}
+.pic10 img{
+	padding-right: 20px;
+	float: right;
+}
+
+/*
+页脚部分
+ */
+.footer{
+	height: 105px;
+
+}
+.no8{
+	background-image: url(../images/foot.gif);
+	width: 1000px;
+	height: 105px;
+	float: left;
+}
+.no8 ul{
+	height: 105px;
+}
+.no8 ul li{
+	float: left;
+	margin: 20px;
+	margin-top: 10px;
+	
+	list-style: none;
+}
+.no8 ul li a{
+	float: left;
+	margin-top: 5px;
+	text-decoration: none;
+}
+.pic11 {
+	margin-top:-90px;
+	text-align: center;
+	width: 800px;
+	height:50px;
+	margin-left: 30px;
+}
+.no9{
+	margin-top: -20px;
+	text-align: center;
+}
