@@ -33,14 +33,14 @@ body{
 	float: left;
 	color:#ff3333;
 	margin-left:5px;
-	margin-top: -2px;
+	margin-top: 2px;
 }
 .nav ul li a:hover{
 	color: #9900ff;
 	text-decoration: underline;
 }
 .logo{
-	margin-top: -40px;
+	margin-top: -36px;
 	float: right;
 }
 .logo input{
@@ -85,7 +85,7 @@ body{
 	margin-top:50px;
 	text-decoration: none;
 	margin:5px;
-	color:#FFA07A;
+	color:#C71585;
 	margin-left:75px;
 
 
@@ -110,7 +110,7 @@ body{
 .right ul li a{
     text-decoration: none;
 	margin:5px;
-	color:#FFA07A;
+	color:#C71585;
 
 
 	margin-left:5px;
@@ -136,7 +136,7 @@ body{
 	margin:5px;
 
 	margin-left: 50px;
-	color:#FFA07A;
+	color:#C71585;
 }
 .bottom a:hover{
 	color: #9900ff;
@@ -186,7 +186,7 @@ body{
 	margin-left: 200px;
 	width: 1005px;
 	height: 30px;
-	background-color:#EEE888;
+	background-color:#EEE9E9;
 }
 .mianbaoxie a{
 	text-decoration: none;

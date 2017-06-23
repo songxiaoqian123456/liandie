@@ -35,14 +35,14 @@ body{
 	float: left;
 	color:#ff3333;
 	margin-left:5px;
-	margin-top: -2px;
+	margin-top: 2px;
 }
 .nav ul li a:hover{
 	color: #9900ff;
 	text-decoration: underline;
 }
 .logo{
-	margin-top: -40px;
+	margin-top: -36px;
 	float: right;
 }
 .logo input{
@@ -96,7 +96,7 @@ body{
 	text-indent: 2em;
 	margin:5px;
 	float: left;
-	opacity: 0.7;
+	opacity: 0.9;
 }
 .bottom{
 	
@@ -149,11 +149,13 @@ body{
 	
 	margin-top:33px;
 	margin-left: 200px;
+ 
 	width: 1005px;
 	height: 30px;
-	background-color:#EEE888;
+	background-color:#EEE9E9;
 }
 .mianbaoxie a{
+
 	text-decoration: none;
 }
 
